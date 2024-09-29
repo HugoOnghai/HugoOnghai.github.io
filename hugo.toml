@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Onghai'
+theme = 'hugo-theme-shell'
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Jane Doe's Portfolio!"
