@@ -6,13 +6,14 @@
     <description>Recent content on Hugo Onghai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2024 18:05:43 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aboutme/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;h2 id=&#34;hi-my-name-is-hugo&#34;&gt;Hi! My name is Hugo.&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a third year undergraduate at UCLA, studying Materials Science and Engineering. I was born and raised in New York but, unfortunately, never seemed to get an accent to match.&lt;/p&gt;</description>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 15 Oct 2024 18:05:43 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hi-my-name-is-hugo&#34;&gt;Hi! My name is Hugo.&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a third year undergraduate at UCLA, studying Materials Science and Engineering. I was born and raised in New York but, unfortunately, never seemed to get an accent to match.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

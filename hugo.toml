@@ -1,4 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Onghai'
-theme = 'hugo-theme-shell'
+theme = 'hyde'
+
+[Menus]
+	main = [
+		{Name = "Github", URL = "https://github.com/HugoOnghai"},
+		{Name = "SoundCloud", URL = "https://soundcloud.com/hugo-onghai"},
+		{Name = "LinkedIn", URL = "https://www.linkedin.com/in/hugo-onghai/"},
+	]
