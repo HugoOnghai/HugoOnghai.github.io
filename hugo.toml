@@ -1,7 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Hugo Onghai'
 theme = 'hyde'
+
+[params]
+	themeColor = "theme-base-0d"
+	sidebarImage = "/images/ProfilePicture.jpg"
+	description = "My Personal Site." 	
 
 [Menus]
 	main = [
