@@ -99,6 +99,19 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Adding Classes for Sidebar Image */
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
