@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Onghai</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Onghai</description>
+    <title>Blogs on Hugo Onghai</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Hugo Onghai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 15:57:36 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Summer In Germany</title>
       <link>http://localhost:1313/blog/mytriptogermany/</link>
       <pubDate>Sun, 20 Oct 2024 15:57:36 -0700</pubDate>
       <guid>http://localhost:1313/blog/mytriptogermany/</guid>
       <description>&lt;p&gt;I spent my entire summer in Germany, as an intern at Forschungszentrum Jülich through the DAAD RISE Program. It was a great experience all around, and I highly recommend anyone interested in spending some time abroad during his/her undergrad to consider this program, particularly over a typical &lt;em&gt;study&lt;/em&gt; abroad.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unlike a study abroad where you are paying tuition to attend, internships abroad are more often paid positions.&lt;/li&gt;&#xA;&lt;li&gt;In my personal opinion, spending time abroad during the summer is better than during the academic year, since you&amp;rsquo;ll be missing out on less back home.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;There were also things specific to my experience that made my time in Germany very worthwhile. I met wonderful peers, many in my same program, and mentors, whom I worked under. The lab I worked in was quite young, and mostly operated by Ph.D. students, all of whom were friendly and happy to teach me things. And indeed, I learned a lot. I&amp;rsquo;m very fortunate that I was entrusted with quite an independent research project &amp;ndash; a first for me &amp;ndash; and it gave me a great, authentic sense for what working in a wet lab, in a research group, and in a national laboratory are like.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 15 Oct 2024 18:05:43 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;hi-my-name-is-hugo&#34;&gt;Hi! My name is Hugo.&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a third year undergraduate at UCLA, studying Materials Science and Engineering. I was born and raised in New York but, unfortunately, never seemed to get an accent to match.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
