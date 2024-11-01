@@ -14,4 +14,4 @@ There were also things specific to my experience that made my time in Germany ve
 For me, one of my favorite things about Germany was all of the biking I got to do. Especially for being in a relatively quiet part of Germany, the quality and density of biking paths in the area were truly astounding. My favorite bike ride has to be my journey to Aachen: about 30 km in ~3 hours (maybe 2 if you don't count the time I spent lost or detouring). 
 Also nearly every weekend I got to travel some place new in Europe. France, Luxembourg, Belgium, the Netherlands; it was spectacular. I'm very thankful they all were very smooth trips, despite this being my first time to travel internationally without my parents. I learned a great deal about travel planning and gained a great deal of confidence in doing so on my own.
 
-I'll try and update this post later with some of my favorite photos another time.
+I'll try and update this post later with some of my favorite photos another time!!!
