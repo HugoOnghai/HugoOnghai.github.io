@@ -2,5 +2,3 @@
 title = "Photos"
 type = "gallery"
 +++
-
-
