@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Onghai</title>
+    <title>Tags on hugo-onghai</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Hugo Onghai</description>
+    <description>Recent content in Tags on hugo-onghai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 15:57:36 -0700</lastBuildDate>

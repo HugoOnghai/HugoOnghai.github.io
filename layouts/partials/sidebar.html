@@ -2,7 +2,9 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <div class="image-container">
-	<img src="{{ .Site.BaseURL }}/images/ProfilePicture.jpg" alt="Hugo Onghai at the Getty" class="responsive">
+	{{ if .IsHome }}
+		<img src="{{ .Site.BaseURL }}/images/ProfilePicture.jpg" alt="Hugo Onghai at the Getty" class="responsive">
+	{{ end }}
       </div>
 
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>

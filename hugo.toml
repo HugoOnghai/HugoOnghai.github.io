@@ -1,15 +1,24 @@
-baseURL = 'http://hugoonghai.github.io'
-languageCode = 'en-us'
-title = 'Hugo Onghai'
-theme = 'hyde'
+baseurl = "https://example.com/"
+title = "hugo-onghai"
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
 [params]
-	themeColor = "theme-base-0d"
-	description = "My Personal Site." 	
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
 
-[Menus]
-	main = [
-		{Name = "Github", URL = "https://github.com/HugoOnghai"},
-		{Name = "SoundCloud", URL = "https://soundcloud.com/hugo-onghai"},
-		{Name = "LinkedIn", URL = "https://www.linkedin.com/in/hugo-onghai/"},
-	]
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
