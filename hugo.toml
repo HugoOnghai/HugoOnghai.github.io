@@ -1,6 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+themes = ["hugo-embed-pdf-shortcode"]
+enableInLineShortcodes = true
 
 [params]
     name = 'Hugo Onghai'
