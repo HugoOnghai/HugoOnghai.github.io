@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=35055&amp;path=livereload" data-no-instant defer></script>
         <meta charset="utf-8">
     <title>Resume</title>
     
-    <link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
+    <link rel="stylesheet" href="http://localhost:35055/sass/main.min.css">
 </head>
 
 <body>
@@ -102,30 +102,30 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-6ddf8abe">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-6ddf8abe">
-        <div class="pdf-loading" id="pdf-loading-6ddf8abe"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-7cd6f028">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-7cd6f028">
+        <div class="pdf-loading" id="pdf-loading-7cd6f028"></div>
     </div>
     
-    <canvas class="pdf-canvas" id="pdf-canvas-6ddf8abe"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-7cd6f028"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-6ddf8abe">
-    <button id="pdf-prev-6ddf8abe">Previous</button>
-    <button id="pdf-next-6ddf8abe">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-7cd6f028">
+    <button id="pdf-prev-7cd6f028">Previous</button>
+    <button id="pdf-next-7cd6f028">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-6ddf8abe"></span> / <span class="pdf-pagecount" id="pdf-pagecount-6ddf8abe"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-7cd6f028"></span> / <span class="pdf-pagecount" id="pdf-pagecount-7cd6f028"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-6ddf8abe" href="../Hugo_Onghai_Resume.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-7cd6f028" href="../HugoOnghai_Resume.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="../Hugo_Onghai_Resume.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-7cd6f028" href="../HugoOnghai_Resume.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '..\/Hugo_Onghai_Resume.pdf';
+    var url = '..\/HugoOnghai_Resume.pdf';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -136,7 +136,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
-      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:35055\/" + 'js/pdf-js/build/pdf.worker.js';
 
     
     var pdfDoc = null,
@@ -144,10 +144,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-6ddf8abe'),
+        canvas = document.getElementById('pdf-canvas-7cd6f028'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-6ddf8abe"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-6ddf8abe');
+        paginator = document.getElementById("pdf-paginator-7cd6f028"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-7cd6f028');
 
 
     
@@ -185,7 +185,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="
       });
 
       
-      document.getElementById('pdf-pagenum-6ddf8abe').textContent = num;
+      document.getElementById('pdf-pagenum-7cd6f028').textContent = num;
     }
 
     
@@ -229,7 +229,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-6ddf8abe').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-7cd6f028').addEventListener('click', onPrevPage);
 
     
 
@@ -240,14 +240,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-6ddf8abe" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-6ddf8abe').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-7cd6f028').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-6ddf8abe').textContent = numPages;
+      document.getElementById('pdf-pagecount-7cd6f028').textContent = numPages;
 
       
       if(pageNum > numPages) {

@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:35055/posts/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:35055/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-07-10-mp-intern-summer/</loc>
+    <loc>http://localhost:35055/posts/2025-07-10-mp-intern-summer/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:35055/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:35055/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:35055/courses/</loc>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>http://localhost:35055/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:35055/tags/</loc>
   </url>
 </urlset>
