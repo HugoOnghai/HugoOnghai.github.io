@@ -1,0 +1,26 @@
+{{- $key := .Get 0 -}}
+{{- $courses := index site.Data.coursework $key -}}
+<table class="course-table">
+    <tr>
+        <th>Title</th>
+        <th>No.</th>
+        <th>Instructor</th>
+        <th>Semester</th>
+    </tr>
+    {{ range $courses }}
+        <tr>
+            <td>{{ .name }}</td>
+            <td>{{ .number }}</td>
+            <td>{{ .instructor }}</td>
+            <td>{{ .semester }} {{ .year }}</td>
+        </tr>
+    {{ end }}
+</table>
+
+<style>
+.course-table-wrapper { overflow-x:auto; }
+.course-table { width:100%; border-collapse: collapse; }
+.course-table th, .course-table td { padding: .6rem .7rem; border-bottom: 1px solid #e5e7eb; text-align:left; }
+.course-table th { font-weight: 600; }
+.course-table a { text-decoration: none; border-bottom: 1px dotted currentColor; }
+</style>

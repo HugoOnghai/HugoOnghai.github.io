@@ -1,0 +1,275 @@
+# SPRING 2025
+
+- name: Electrical and Electronic Circuits
+  number: EC ENGR 100
+  instructor: Yang Zhang
+  semester: Spring
+  year: 2025
+
+- name: Introduction to Labor and Workplace Studies
+  number: LBR STDS 10
+  instructor: Rosemarie Molina
+  semester: Spring
+  year: 2025
+
+- name: Introduction to Materials Characterization B Laboratory
+  number: MAT SCI 111L
+  instructor: Sergey Prikhodko
+  semester: Spring
+  year: 2025
+
+- name: Materials Science of Semiconductors
+  number: MAT SCI 121
+  instructor: Aaswath Raman
+  semester: Spring
+  year: 2025
+
+- name: Materials Science of Semiconductors Laboratory
+  number: MAT SCI 121L
+  instructor: Mark Goorsky
+  semester: Spring
+  year: 2025
+
+- name: Materials Selection and Engineering Design B
+  number: MAT SCI 140B
+  instructor: Marta Pozuelo
+  semester: Spring
+  year: 2025
+
+# WINTER 2025
+
+- name: Experimental Courses in Engineering Ethics
+  number: ENGR 188EW
+  instructor: Donald Browne
+  semester: Winter
+  year: 2025
+
+- name: Principles of Electronic Materials Processing
+  number: MAT SCI 122
+  instructor: Aaron Moment
+  semester: Winter
+  year: 2025
+
+- name: Materials Selection and Engineering Design A
+  number: MAT SCI 140A
+  instructor: Marta Pozuelo
+  semester: Winter
+  year: 2025
+
+- name: Machine Learning for Materials Science
+  number: MAT SCI 298
+  instructor: Daniel Schwalbe-Koda
+  semester: Winter
+  year: 2025
+
+- name: "In Search of Meaning: From Holy Texts to Hollywood"
+  number: RELIGN 113
+  instructor: Carol Bakhos
+  semester: Winter
+  year: 2025
+
+# FALL 2024
+
+- name: Engineering Electromagnetics
+  number: EC ENGR 101A
+  instructor: Kevyan Bahadori
+  semester: Fall
+  year: 2024
+
+- name: Principles of Semiconductor Device Design
+  number: EC ENGR 121B
+  instructor: Elaheh Ahmadi
+  semester: Fall
+  year: 2024
+
+- name: Introduction to Ceramics and Glasses
+  number: MAT SCI 160
+  instructor: Eric Bescher
+  semester: Fall
+  year: 2024
+
+- name: "Issues in Human Physiology: Diet and Exercise"
+  number: PHY SCI 5
+  instructor: Joseph Esdin
+  semester: Fall
+  year: 2024
+
+# SPRING 2024
+
+- name: Project-Based Technology Bootcamp for Social Impact
+  number: ENGR 170
+  instructor: Davida Johnson, James Davis
+  semester: Spring
+  year: 2024
+
+- name: "Large Jazz Ensembles: Contemporary Jazz Ensemble"
+  number: GJ STDS 176A
+  instructor: Hitomi Oba
+  semester: Spring
+  year: 2024
+
+- name: Structure and Properties of Metallic Alloys
+  number: MAT SCI 132
+  instructor: Morris Wang
+  semester: Spring
+  year: 2024
+
+- name: Computer Simulations of Materials
+  number: MAT SCI 270
+  instructor: Jaime Marian
+  semester: Spring
+  year: 2024
+
+- name: Introduction to Discrete Structures
+  number: MATH 61
+  instructor: Siddarth Kannan
+  semester: Spring
+  year: 2024
+
+- name: Linear Algebra (Honors)
+  number: MATH 115AH
+  instructor: Morgan Opie
+  semester: Spring
+  year: 2024
+
+# WINTER 2024
+
+- name: Physics of Materials
+  number: MAT SCI 120
+  instructor: Yang Yang
+  semester: Winter
+  year: 2024
+
+- name: Diffusion and Diffusion-Controlled Reactions
+  number: MAT SCI 131 
+  instructor: Bruce Dunn
+  semester: Winter
+  year: 2024
+
+- name: Diffusion and Diffusion-Controlled Reactions Laboratory
+  number: MAT SCI 131L
+  instructor: Marta Pozuelo
+  semester: Winter
+  year: 2024
+
+- name: Computer Methods and Instrumentation in Material Science
+  number: MAT SCI 141L
+  instructor: Amartya Banerjee
+  semester: Winter
+  year: 2024
+
+# FALL 2023
+
+- name: Systems and Signals
+  number: EC ENGR 102
+  instructor: Jonathan Kao
+  semester: Fall
+  year: 2023
+
+- name: Introduction to Materials Characterization A (Crystal Structure, Nanostructures, and X-Ray Scattering)
+  number: MAT SCI 110
+  instructor: Mark Goorsky
+  semester: Fall
+  year: 2023
+
+- name: Introduction to Materials Characterization A Laboratory
+  number: MAT SCI 110L
+  instructor: Mark Goorsky
+  semester: Fall
+  year: 2023
+
+- name: Phase Relations in Solids
+  number: MAT SCI 130
+  instructor: Magdalena Balonis
+  semester: Fall
+  year: 2023
+
+- name: Statics and Strength of Materials
+  number: MECH&AE 101
+  instructor: Vijay Gupta
+  semester: Fall
+  year: 2023
+
+# Spring 2023
+
+- name: General Chemistry Laboratory
+  number: CHEM 20L
+  instructor: Arlene Russell
+  semester: Spring
+  year: 2023
+
+- name: Introduction to Computer Science II (C++)
+  number: COM SCI 32
+  instructor: David Smallberg
+  semester: Spring
+  year: 2023
+
+- name: Introduction to Graphic Fiction
+  number: ENGL 91D
+  instructor: Daniel Snelson
+  semester: Spring
+  year: 2023
+
+- name: Physical Measurement in Materials Engineering
+  number: MAT SCI 90L
+  instructor: Laura Kim
+  semester: Spring
+  year: 2023
+
+- name: Science of Engineering Materials
+  number: MAT SCI 104
+  instructor: Laura Kim
+  semester: Spring
+  year: 2023
+
+# WINTER 2023
+
+- name: Chemical Energetics and Change (Honors)
+  number: CHEM 20BH
+  instructor: Paul Weiss
+  semester: Winter
+  year: 2023
+
+- name: Introduction to Computer Science I
+  number: COM SCI 31
+  instructor: Bruce Huang
+  semester: Winter
+  year: 2023
+
+- name: "Physics for Scientists and Engineers: Mechanics"
+  number: PHYSICS 1A
+  instructor: David Saltzberg
+  semester: Winter
+  year: 2023
+
+- name: "Fiat Lux Freshman Seminars: Mental Illness and Movies"
+  number: PSYCTRY 19
+  instructor: David Taylor
+  semester: Winter
+  year: 2023
+
+# FALL 2022
+
+- name: Culture and Communication
+  number: ANTHRO 4
+  instructor: H. Samy Alim
+  semester: Fall
+  year: 2022
+
+- name: Chemical Structure
+  number: CHEM 20A
+  instructor: Abby Kavner
+  semester: Fall
+  year: 2022
+
+- name: "Freshman Seminar: New Materials"
+  number: MAT SCI 10 
+  instructor: Amartya Banerjee
+  semester: Fall
+  year: 2022 
+
+- name: Differential Equations
+  number: MATH 33B
+  instructor: Aaron Palmer
+  semester: Fall
+  year: 2022

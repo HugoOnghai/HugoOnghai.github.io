@@ -1,0 +1,35 @@
+- name: Applied Machine Learning
+  number: CS 5785
+  instructor: Volodymyr Kuleshov
+  semester: Fall
+  year: 2025
+
+- name: Distributed Optimization for Machine Learning and AI
+  number: ECE 5290
+  instructor: Tianyi Chen
+  semester: Fall
+  year: 2025
+
+- name: Applied Digital ASIC Design
+  number: ECE 5746
+  instructor: Jae-sun Seo
+  semester: Fall
+  year: 2025
+
+- name: Modern Computer Systems and Architecture
+  number: ECE 5755
+  instructor: Udit Gupta
+  semester: Fall
+  year: 2025
+
+- name: Modeling Under Uncertainty
+  number: ORIE 5530
+  instructor: Jiachang Liu
+  semester: Fall
+  year: 2025
+
+- name: Product Studio
+  number: TECH 5900
+  instructor: Karan Girotra & Josh Hartmann
+  semester: Fall
+  year: 2025
