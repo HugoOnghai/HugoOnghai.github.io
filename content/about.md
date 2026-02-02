@@ -9,6 +9,8 @@ I am a new grad from **UCLA** with a **B.S. in Materials Engineering**, *summa c
 
 Thank you for taking the time to visit my site! I am very grateful. Check out my resume if you want to contact me.
 
+{{< education-showcase >}}
+
 ### These are some awesome places!
 
 {{< vacation_spots >}}

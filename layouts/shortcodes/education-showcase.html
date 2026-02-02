@@ -1,0 +1,36 @@
+{{ $education := .Site.Data.education }}
+
+<div class="education-section">
+  <h2>Education & Background</h2>
+  
+  <div class="universities-list" style="display: grid; grid-template-columns: 1fr; gap: 10px; max-width: 600px; margin-left: auto; margin-right: auto;">
+    {{ range $education.universities }}
+    <div class="university-card" style="--university-color: {{ .color }}">
+      <div class="university-logo-container">
+        {{ if .image }}
+          <img src="{{ .image }}" alt="{{ .name }} logo" class="university-logo">
+        {{ else }}
+          <div class="university-logo-placeholder">{{ .name }}</div>
+        {{ end }}
+      </div>
+      <div class="university-info">
+        <h3>{{ .name }}</h3>
+        <p class="degree">{{ .degree }}</p>
+        <p class="honors">{{ .honors }}</p>
+        <p class="status">{{ .status }}</p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- <h3>Interests & Focus Areas</h3>
+  <div class="interests-grid">
+    {{ range $education.interests }}
+    <div class="interest-card">
+      <div class="interest-icon">{{ .icon }}</div>
+      <h4>{{ .name }}</h4>
+      <p>{{ .description }}</p>
+    </div>
+    {{ end }}
+  </div> -->
+</div>

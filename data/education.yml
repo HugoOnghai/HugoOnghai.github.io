@@ -1,0 +1,33 @@
+universities:
+  - name: Cornell Tech
+    degree: M.Eng. in Electrical and Computer Engineering
+    honors: In Progress
+    status: Current
+    year: 2026
+    image: /images/cornell-logo.png
+    color: "#B31B1B"
+    
+  - name: UCLA
+    degree: B.S. in Materials Engineering
+    honors: summa cum laude
+    status: Completed
+    year: 2024
+    image: /images/ucla-logo.png
+    color: "#2774E4"
+
+interests:
+  - name: Chip Design
+    icon: "⚙️"
+    description: FPGA and ASIC Design
+    
+  - name: Machine Learning
+    icon: "🧠"
+    description: ML/AI Applications
+    
+  - name: Operations Research
+    icon: "📊"
+    description: Optimization & Probability
+    
+  - name: Materials Science
+    icon: "🔬"
+    description: Advanced Materials
